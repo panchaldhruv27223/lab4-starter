@@ -35,4 +35,3 @@ pip install pandas
 
 # Note:
     Dataset link: https://raw.githubusercontent.com/panchaldhruv27223/datasets_for_ml_-csv-xlsl-/refs/heads/main/kc_house_data.csv
-    "# lab4-starter" 
